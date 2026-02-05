@@ -28,6 +28,27 @@ const FileMetadataSchema = new mongoose.Schema({
   fileSize: {
     type: Number,
     required: true
+  },
+  // 🔐 Encryption metadata
+  isEncrypted: {
+    type: Boolean,
+    default: true
+  },
+  iv: {
+    type: String,
+    required: true
+  },
+  salt: {
+    type: String,
+    required: true
+  },
+  authTag: {
+    type: String,
+    required: true
+  },
+  encryptionAlgorithm: {
+    type: String,
+    default: 'aes-256-gcm'
   }
 });
 

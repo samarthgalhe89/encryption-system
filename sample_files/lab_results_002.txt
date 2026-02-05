@@ -1,0 +1,65 @@
+LABORATORY TEST RESULTS
+
+Patient: Jane Smith
+Date of Birth: 22/07/1990
+Medical Record Number: PT-987654
+Lab Order ID: LAB-2026-5678
+Collection Date: 04/02/2026
+Result Date: 05/02/2026
+Ordering Physician: Dr. Robert Johnson, MD
+
+COMPLETE BLOOD COUNT (CBC)
+
+Test                    Result      Reference Range      Status
+WBC                     7.2         4.5-11.0 K/uL        Normal
+RBC                     4.5         4.2-5.4 M/uL         Normal
+Hemoglobin              13.8        12.0-16.0 g/dL       Normal
+Hematocrit              41.2        37.0-47.0 %          Normal
+Platelets               245         150-400 K/uL         Normal
+Neutrophils             62%         40-70%               Normal
+Lymphocytes             28%         20-40%               Normal
+Monocytes               8%          2-10%                Normal
+Eosinophils             2%          1-4%                 Normal
+
+COMPREHENSIVE METABOLIC PANEL (CMP)
+
+Test                    Result      Reference Range      Status
+Glucose                 95          70-100 mg/dL         Normal
+BUN                     15          7-20 mg/dL           Normal
+Creatinine              0.9         0.6-1.2 mg/dL        Normal
+Sodium                  140         136-145 mmol/L       Normal
+Potassium               4.2         3.5-5.0 mmol/L       Normal
+Chloride                102         98-107 mmol/L        Normal
+CO2                     25          22-29 mmol/L         Normal
+Calcium                 9.5         8.5-10.5 mg/dL       Normal
+
+LIVER FUNCTION TESTS
+
+Test                    Result      Reference Range      Status
+ALT (SGPT)              28          7-56 U/L             Normal
+AST (SGOT)              24          10-40 U/L            Normal
+Alkaline Phosphatase    72          44-147 U/L           Normal
+Total Bilirubin         0.8         0.1-1.2 mg/dL        Normal
+Albumin                 4.2         3.5-5.5 g/dL         Normal
+
+LIPID PANEL
+
+Test                    Result      Reference Range      Status
+Total Cholesterol       185         <200 mg/dL           Normal
+HDL Cholesterol         58          >40 mg/dL            Normal
+LDL Cholesterol         105         <130 mg/dL           Normal
+Triglycerides           110         <150 mg/dL           Normal
+VLDL                    22          5-40 mg/dL           Normal
+
+INTERPRETATION
+
+All results within normal limits. No abnormalities detected.
+Patient appears to be in good health based on laboratory findings.
+
+Report reviewed and verified by:
+Dr. Patricia Williams, MD, Pathology
+Date: 05/02/2026 15:45
+Status: FINAL
+
+CONFIDENTIAL - Protected Health Information (PHI)
+Unauthorized disclosure prohibited by law

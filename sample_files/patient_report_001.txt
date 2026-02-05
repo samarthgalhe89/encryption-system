@@ -1,0 +1,58 @@
+PATIENT MEDICAL REPORT
+
+Hospital: City General Hospital
+Department: Radiology
+Report ID: RAD-2026-001234
+
+PATIENT INFORMATION
+
+Patient Name: John Doe
+Patient ID: PT-456789
+Date of Birth: 15/03/1985 (Age: 41)
+Gender: Male
+Date of Exam: 05/02/2026
+Referring Doctor: Dr. Sarah Smith, MD
+
+EXAMINATION DETAILS
+
+Exam Type: Chest X-Ray (PA & Lateral)
+Indication: Persistent cough for 3 weeks
+Technique: Digital radiography
+
+FINDINGS
+
+LUNGS:
+- Clear lung fields bilaterally
+- No evidence of consolidation, infiltrate, or mass
+- No pleural effusion
+
+HEART:
+- Normal cardiac silhouette
+- Cardiothoracic ratio within normal limits
+
+MEDIASTINUM:
+- Normal mediastinal contours
+- No mediastinal widening
+
+BONES:
+- No acute bony abnormalities visualized
+- Degenerative changes in thoracic spine noted
+
+IMPRESSION
+
+1. Normal chest radiograph
+2. No acute cardiopulmonary abnormality
+
+RECOMMENDATIONS
+
+- Clinical correlation recommended
+- Follow-up as clinically indicated
+- Consider CT chest if symptoms persist
+
+Reported by: Dr. Michael Chen, MD
+Board Certified Radiologist
+Date & Time: 05/02/2026 14:30
+Signature: [Electronically Signed]
+
+CONFIDENTIAL PATIENT DATA
+This document contains protected health information

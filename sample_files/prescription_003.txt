@@ -1,0 +1,78 @@
+MEDICAL PRESCRIPTION
+City General Hospital
+
+Date: February 5, 2026
+
+PATIENT DETAILS
+
+Name: Alex Martinez
+Age/Gender: 35 Years / Male
+Patient ID: PT-112233
+Address: 123 Main Street, City
+Contact: +1 (555) 123-4567
+
+PHYSICIAN DETAILS
+
+Dr. Emily Thompson, MD
+License No: MD-456789
+Specialty: Internal Medicine
+Contact: ext. 2345
+
+DIAGNOSIS
+
+Acute Bronchitis
+
+VITAL SIGNS
+
+Blood Pressure: 125/80 mmHg
+Pulse: 82 bpm
+Temperature: 99.2°F
+SpO2: 97%
+Weight: 75 kg
+Height: 175 cm
+
+PRESCRIPTIONS
+
+Rx 1. Amoxicillin 500mg
+- Take 1 capsule every 8 hours
+- Duration: 7 days
+- Take with food
+
+Rx 2. Dextromethorphan Syrup (Cough Suppressant)
+- Take 10ml every 6-8 hours as needed
+- Do not exceed 4 doses in 24 hours
+- Duration: 5 days
+
+Rx 3. Ibuprofen 400mg
+- Take 1 tablet every 6 hours as needed for fever/pain
+- Maximum 3 tablets per day
+- Take with food
+
+Rx 4. Cetirizine 10mg (Antihistamine)
+- Take 1 tablet once daily at bedtime
+- Duration: 5 days
+
+INSTRUCTIONS
+
+- Complete full course of antibiotics even if feeling better
+- Drink plenty of fluids (8-10 glasses of water daily)
+- Get adequate rest
+- Avoid smoking and alcohol
+- Use humidifier if available
+- Return if symptoms worsen or fever above 101°F
+
+FOLLOW-UP
+
+Schedule follow-up appointment in 7 days if symptoms persist
+
+ALLERGIES
+
+No known drug allergies (NKDA)
+
+Physician Signature: [Electronically Signed]
+Dr. Emily Thompson, MD
+Date: 05/02/2026
+Time: 10:30 AM
+
+CONFIDENTIAL MEDICAL DOCUMENT
+This prescription is valid for 30 days from date of issue
